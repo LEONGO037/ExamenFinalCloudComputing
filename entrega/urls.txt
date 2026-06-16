@@ -1,4 +1,6 @@
 Repo GitHub:
 S3 web (Lab 2): http://s3-examenfinal.s3-website-us-east-1.amazonaws.com/
-API Gateway base (Lab 3):
-Kubernetes puerto 30080 (Lab 4):
+API Gateway base (Lab 3): https://rvcgu8s3ec.execute-api.us-east-1.amazonaws.com/prod/poleras
+https://rvcgu8s3ec.execute-api.us-east-1.amazonaws.com/prod/partidos
+https://rvcgu8s3ec.execute-api.us-east-1.amazonaws.com/prod/partidos/{id}
+Kubernetes puerto 30080 (Lab 4): http://localhost:30080
