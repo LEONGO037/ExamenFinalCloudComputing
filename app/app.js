@@ -25,6 +25,7 @@ function setStatus(el, text) {
   el.textContent = text;
 }
 
+
 function nombrePais(archivo) {
   return archivo.replace(".svg", "").replace(/-/g, " ");
 }
