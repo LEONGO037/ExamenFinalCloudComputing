@@ -6,6 +6,7 @@ on:
     paths:
       - "app/**"
 
+
 jobs:
   deploy-web:
     runs-on: ubuntu-latest
