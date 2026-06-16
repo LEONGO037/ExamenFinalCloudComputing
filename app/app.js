@@ -21,7 +21,6 @@ const polerasLocales = [
   { archivo: "espana.svg", pais: "España" },
 ];
 
-
 function setStatus(el, text) {
   el.textContent = text;
 }
